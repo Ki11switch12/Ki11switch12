@@ -3,6 +3,11 @@
 </a>
 
 <h1 align="center">Hi 👋, I'm Sabih Qureshi</h1>
+<p align="center">
+  <img src="assets/avatar.png" alt="Avatar" width="200" />
+</p>
+
+
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <p>Cyber Security Student at Air Univeristy | CTF Player | Go Green Fly Higher 🥦 </p>
 
